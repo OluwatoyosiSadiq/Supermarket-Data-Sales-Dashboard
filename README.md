@@ -14,3 +14,12 @@ Predictive data analytics methods are easy to apply with this dataset.
 - Branch: Branch of supercenter (3 branches are available identified by A, B and C).
 
 - City: Location of supercenters
+
+  ## Skills Demonstrated
+  - DAX (Data Analysis Expression)
+  - Slicers
+  - Filters
+  - Measures
+  - Data Extraction
+  - Data Transformation
+  - Data Modelling
